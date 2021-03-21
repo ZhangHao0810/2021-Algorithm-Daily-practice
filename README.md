@@ -6,4 +6,6 @@
 ### 更新日志
 
 ####数据结构篇-推荐阅读
-day01 队列: [Java 集合深入理解（9）：Queue 队列](https://blog.csdn.net/u011240877/article/details/52860924)
+day01 :[Java 集合：Queue 队列](https://blog.csdn.net/u011240877/article/details/52860924)  
+
+day02 :[Java集合: Set](https://www.jianshu.com/p/b48c47a42916)---这个写的很好。
