@@ -11,8 +11,13 @@
 -->[QueueDemo](src/_基本数据结构_/QueueDemo.java)  
 [Java集合：Set](https://www.jianshu.com/p/b48c47a42916)
 -->[★SetDemo](src/_基本数据结构_/SetDemo.java)  
-[Java集合：List]() 
--->[ListDemo]()-->[栈StackDemo]()  
+[Java集合：List](https://blog.csdn.net/qq_41657790/article/details/89218808?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.baidujs&dist_request_id=&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.baidujs)
+,[ArrayList]()
+,[LinkedList](https://blog.csdn.net/jdsjlzx/article/details/41654295)
+,[Vector]()
+,[栈Stack]()
+-->[ListDemo,ArrayListDemo,LinkedListDemo,VectorDemo,StackDemo](src/_基本数据结构_/ListDemo.java)  
+
 [Java集合：Map]()
 
  树   
