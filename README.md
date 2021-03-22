@@ -5,19 +5,18 @@
 
 ### 更新日志
 
-#### 数据结构篇-推荐阅读  
+#### 数据结构篇  
 
 [Java集合：Queue 队列](https://blog.csdn.net/u011240877/article/details/52860924)
 -->[QueueDemo](src/_基本数据结构_/QueueDemo.java)  
 [Java集合：Set](https://www.jianshu.com/p/b48c47a42916)
--->[★SetDemo](src/_基本数据结构_/SetDemo.java)  
+-->[★SetDemo,HashSet,TreeSet](src/_基本数据结构_/SetDemo.java)  
 [Java集合：List](https://blog.csdn.net/qq_41657790/article/details/89218808?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.baidujs&dist_request_id=&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.baidujs)
-,[ArrayList]()
-,[LinkedList](https://blog.csdn.net/jdsjlzx/article/details/41654295)
-,[Vector]()
-,[栈Stack]()
+,[ArrayList](https://blog.csdn.net/pipizhen_/article/details/107417406)
+,[★LinkedList](https://blog.csdn.net/jdsjlzx/article/details/41654295)
+,[Vector](https://blog.csdn.net/aamjz20022/article/details/101539986?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.baidujs&dist_request_id=1328680.52773.16163964616992767&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.baidujs)
+,[栈Stack](https://blog.csdn.net/weixin_42014622/article/details/105524005)
 -->[ListDemo,ArrayListDemo,LinkedListDemo,VectorDemo,StackDemo](src/_基本数据结构_/ListDemo.java)  
-
 [Java集合：Map]()
 
  树   
