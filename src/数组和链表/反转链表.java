@@ -9,16 +9,6 @@ package 数组和链表;
  */
 public class 反转链表 {
 
-    private static class Node {
-        private String vlaue;
-        private Node next;
-
-        private Node(String vlaue, Node next) {
-            this.vlaue = vlaue;
-            this.next = next;
-        }
-
-    }
 
     public static void main(String[] args) {
 
@@ -36,7 +26,8 @@ public class 反转链表 {
         Node node2 = new Node("6", null);
         createNodes(5, node2);
 
-        Node head=reverse(node2);
+//        Node head=递归翻转(node2);
+        Node head=遍历翻转(node2);
         while (head.next!=null) {
             System.out.print(head.vlaue+" ");
             head = head.next;
@@ -49,18 +40,33 @@ public class 反转链表 {
      * 弹栈，压栈的过程。
      *  递归的思想！ 绝了。
      */
-    private static Node reverse(Node head) {
+    private static Node 递归翻转(Node head) {
         if (head == null || head.next == null) {
             return head;
         }
 
         Node temp = head.next;
-        Node newHead = reverse(head.next);
+        Node newHead = 递归翻转(head.next);
         temp.next = head;
         head.next = null;
 
         return newHead;
     }
+
+    private static Node 遍历翻转(Node node) {
+        Node pre=null;
+        Node next;
+        while (node != null) {
+            next=node.next;
+            node.next=pre;
+            pre=node;
+            node=next;
+        }
+        return pre;
+
+    }
+
+
 
     private static Node createNodes(Integer i, Node node) {
         if (i < 0) {
