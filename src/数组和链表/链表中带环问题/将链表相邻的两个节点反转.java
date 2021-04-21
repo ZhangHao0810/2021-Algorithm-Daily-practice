@@ -1,4 +1,6 @@
-package 数组和链表;
+package 数组和链表.链表中带环问题;
+
+import 数组和链表.Node;
 
 /**
  * @author Super-Zhang
@@ -24,10 +26,10 @@ public class 将链表相邻的两个节点反转 {
 
 
         while (head.next != null) {
-            System.out.print(head.vlaue);
+            System.out.print(head.value);
             head = head.next;
         }
-        System.out.println(head.vlaue);
+        System.out.println(head.value);
 
 
     }
@@ -57,7 +59,7 @@ public class 将链表相邻的两个节点反转 {
      * @return
      */
     public static Node swapPairs递归(Node head) {
-        if (head.vlaue == null || head.next == null) {
+        if (head.value == null || head.next == null) {
             return head;
         }
         Node res = head.next;//找到节点的下一个
