@@ -16,10 +16,10 @@ public class 反转链表 {
         createNodes(5, node);
 
         while (node.next!=null) {
-            System.out.print(node.vlaue + " ");
+            System.out.print(node.value + " ");
             node = node.next;
         }
-        System.out.println(node.vlaue);
+        System.out.println(node.value);
 
 
 //        ===========  翻转链表  ====================
@@ -29,10 +29,10 @@ public class 反转链表 {
 //        Node head=递归翻转(node2);
         Node head=遍历翻转(node2);
         while (head.next!=null) {
-            System.out.print(head.vlaue+" ");
+            System.out.print(head.value+" ");
             head = head.next;
         }
-        System.out.println(head.vlaue);
+        System.out.println(head.value);
 
     }
 
