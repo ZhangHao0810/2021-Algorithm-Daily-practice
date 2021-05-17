@@ -16,7 +16,6 @@ import java.util.Set;
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
 
-
         /**
          * 用左右指针来做。
          */
