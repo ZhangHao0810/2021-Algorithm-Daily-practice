@@ -12,4 +12,18 @@ public class TreeNode {
     TreeNode left;
 
     TreeNode right;
+
+
+    TreeNode( TreeNode node){
+        this.val = node.val;
+        this.left = node.left;
+        this.right = node.right;
+    }
+
+    TreeNode(int val) {
+        this.val = val;
+    }
+
+    TreeNode(){
+    }
 }
