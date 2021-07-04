@@ -5,6 +5,10 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/BMW-Java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode-Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/左程云-算法与数据结构" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaGuid-算法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/面试算法真题" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/牛客算法高频" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
