@@ -67,7 +67,7 @@ public class ListDemo {
 
         Iterator<String> iterator = list.iterator();
         while (iterator.hasNext()) {
-            String str = (String) iterator.next();
+            String str = iterator.next();
             System.out.println(str);
         }
 

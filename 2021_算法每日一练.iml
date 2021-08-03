@@ -8,7 +8,9 @@
       <sourceFolder url="file://$MODULE_DIR$/左程云-算法与数据结构" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaGuid-算法" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/面试算法真题" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/牛客算法高频" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/左程云-牛客-算法课程" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/剑指Offer" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -38,10 +38,10 @@ public class Code03_小和问题 {
         int p2 = M + 1;
         int res=0;
         while (p1 <= M && p2 <= R) {
-            // 这一句，得到了在merge的同时产生的小和。
+            // 这一句，得到了在merge的同时产生的小和。 一个组内部不会产生小和，只有左右两个数进行比较merge的时候产生小和。
             res += arr[p1] < arr[p2] ?(R-p2+1) * arr[p1] : 0;
 
-            help[i++] = arr[p1] <= p2 ? arr[p1++] : arr[p2++];
+            help[i++] = arr[p1] < p2 ? arr[p1++] : arr[p2++];
         }
         while (p1 <= M) {
             help[i++] = arr[p1++];

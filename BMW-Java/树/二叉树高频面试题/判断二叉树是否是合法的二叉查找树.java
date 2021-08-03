@@ -25,9 +25,6 @@ public class 判断二叉树是否是合法的二叉查找树 {
         }
         firstNode = false;
         lastVal = root.val;
-        if (!isValidBST(root.right)) {
-            return false;
-        }
-        return true;
+        return isValidBST(root.right);
     }
 }

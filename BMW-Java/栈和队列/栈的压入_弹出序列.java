@@ -26,10 +26,7 @@ public class 栈的压入_弹出序列 {
                 popIndex++;
             }
         }
-        if (stack.isEmpty() && pPop.length - 1 == popIndex) {
-            bPoosible = true;
-        } else
-            bPoosible = false;
+        bPoosible = stack.isEmpty() && pPop.length - 1 == popIndex;
 
         return bPoosible;
     }
