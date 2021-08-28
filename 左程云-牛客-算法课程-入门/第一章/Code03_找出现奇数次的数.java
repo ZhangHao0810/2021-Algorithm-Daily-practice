@@ -1,4 +1,4 @@
-package class1;
+package 第一章;
 
 /**
  * @author Super-Zhang
@@ -9,6 +9,12 @@ package class1;
  */
 public class Code03_找出现奇数次的数 {
 
+    /**
+     * a ^ a = 0
+     * 0 ^ b = b
+     * a ^ a ^ b = b
+     * @param arr
+     */
     public static void pritOddTimesNum1(int[] arr) {
         int eor = 0;
         for (int cur : arr) {
@@ -17,22 +23,27 @@ public class Code03_找出现奇数次的数 {
         System.out.println(eor);
     }
 
+    /**
+     *
+     * @param arr
+     */
     public static void printOddTimesNum2(int[] arr) {
         int eor=0,onlyOne=0;
         for (int cur : arr) {
             eor ^= cur;
         }
         // eor = a ^ b
-        // eor != 0
-        // eor 中必然有一个位置是1
+        // 因为 a != b , 故 eor != 0
+        // eor 中必然有一个位置是1， 故利用这个1 将原数组分成两份。
         int rightOne=eor & (~eor +1); //提取出最右边的1
 
         for (int cur : arr) {
-            if((cur & rightOne)==0)//这里等于1也行。因为a和b 有一个是1，有一个是0
+            if((cur & rightOne)==0)// & 相等 1 ， 不等 0  进入if 的 cur 是两份中的一分。
                 onlyOne ^= cur;
         }
+
         //onlyOne 就是 a 或者 b。
-        System.out.println(onlyOne+" "+ (eor^ onlyOne));
+        System.out.println(onlyOne+" "+ (eor ^ onlyOne));
     }
 
 }
