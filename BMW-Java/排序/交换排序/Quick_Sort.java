@@ -71,6 +71,8 @@ public class Quick_Sort {
         //此时【left=right】是基准元素该在的位置
         a[left]=key;
         return left;
+
+        
     }
 
 }
