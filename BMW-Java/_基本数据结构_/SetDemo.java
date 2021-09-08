@@ -24,6 +24,8 @@ import java.util.*;
  * TreeSet 继承AbstractSet，实现NavigableSet, 【Cloneable】, 【Serializable】接口。
  * 实现TreeMap 底层为红黑树。
  * TreeSet可以排序，自然排序12345（默认）和自定义排序两种。
+ *
+ *  返回值， 1 即交换， 0和 -1 即不交换。
  */
 public class SetDemo {
 

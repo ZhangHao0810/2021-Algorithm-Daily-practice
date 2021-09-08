@@ -45,7 +45,7 @@ public class Shell_Sort {
 
 //                3层，组内从最后一个位置 依次向前执行插入排序中的插入操作。
                 for (int k = j - gap; k >= 0; k -= gap) {
-                    if (arr[k] > arr[k + gap]) {
+                    if (arr[k] > arr[k + gap]) {  //插入排序并不是打牌，摸完之后只插一次，而是换换换
                         temp = arr[k];
                         arr[k] = arr[k + gap];
                         arr[k + gap] = temp;

@@ -59,12 +59,14 @@ public class 返回滑动窗口的最大值 {
     public int[] maxSlidingWindow1(int[] nums, int k) {
         if (nums == null || k <= 0 || k == 1)
             return nums;
+
         PriorityQueue queue = new PriorityQueue<>(k, new Comparator<Integer>() {
             @Override
             public int compare(Integer o1, Integer o2) {
                 return o2 - o1;
             }
         });
+
         int[] max = new int[nums.length - k + 1];
         for (int i = 0; i < nums.length; i++) {
 //          如果是第K个数之前和第K个数，就说明优先队列没有满，继续添加
@@ -95,7 +97,7 @@ public class 返回滑动窗口的最大值 {
         for(int i = 0; i < nums.length; i++){
             //每当新数进来，如果发现队列的头部的数的下标是窗口最左边的下标，则移出队列
             // 如果队列头元素不在滑动窗口中了，就删除头元素
-            if(!adq.isEmpty() && adq.peekFirst() == i - k)
+            if(!adq.isEmpty() && adq.peekFirst() == i - k)//i - k 这里很巧妙
                 adq.removeFirst();
             //把队列尾部的数和新数一一比较，比新数小的都移出队列，直到该队列的末尾数比新数大或者队列为空的时候才停止，保证队列是降序的
             while(!adq.isEmpty() && nums[adq.peekLast()] < nums[i])

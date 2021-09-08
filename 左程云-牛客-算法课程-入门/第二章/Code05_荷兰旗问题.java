@@ -1,4 +1,4 @@
-package class2;
+package 第二章;
 
 /**
  * @author Super-Zhang
