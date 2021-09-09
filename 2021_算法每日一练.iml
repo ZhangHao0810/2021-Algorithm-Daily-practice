@@ -15,7 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/_0基本数据结构" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_数组_链表" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_堆_优先队列" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Nowcode 牛客" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NowCoder 牛客" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_1排序算法" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_哈希表" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/算法思想：递归" isTestSource="false" />
@@ -24,6 +24,7 @@
       <sourceFolder url="file://$MODULE_DIR$/算法思想：动态规划" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/设计模式" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_字符串" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_图" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
