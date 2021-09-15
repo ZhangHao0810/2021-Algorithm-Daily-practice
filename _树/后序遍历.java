@@ -36,8 +36,8 @@ public class 后序遍历 {
         stack.push(root);
         while (!stack.isEmpty()) {
             TreeNode node = stack.pop();
-            if (node.leftchild != null) stack.push(node.leftchild);
-            if (node.rightchild != null) stack.push(node.rightchild);
+            if (node.left != null) stack.push(node.left);
+            if (node.right != null) stack.push(node.right);
             res.add(0, node.val); //逆序添加结点值 这个很绝。
         }
         return res;

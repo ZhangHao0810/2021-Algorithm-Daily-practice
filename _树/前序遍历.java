@@ -23,8 +23,8 @@ public class 前序遍历 {
             root=stack.pop();
             list.add(root.val);
             //先放右子树，再放左子树。
-            if (root.rightchild != null) stack.push(root.rightchild);
-            if (root.leftchild != null) stack.push(root.leftchild);
+            if (root.right != null) stack.push(root.right);
+            if (root.left != null) stack.push(root.left);
         }
         return list;
     }

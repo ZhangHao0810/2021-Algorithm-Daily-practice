@@ -1,7 +1,3 @@
-package 链表中带环问题;
-
-import Node;
-
 /**
  * @author Super-Zhang
  * @date 2021-04-21 11:29

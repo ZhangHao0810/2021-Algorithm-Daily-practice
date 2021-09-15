@@ -24,11 +24,11 @@ public class 中序遍历 {
             //不断遍历左孩子。
             if (root != null) {
                 stack.push(root);
-                root = root.leftchild;
+                root = root.left;
             } else {
                 root = stack.pop();
                 list.add(root.val);
-                root = root.rightchild;
+                root = root.right;
             }
         }
         return list;

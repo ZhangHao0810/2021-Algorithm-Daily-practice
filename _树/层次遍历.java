@@ -24,11 +24,11 @@ public class 层次遍历 {
             while (count > 0) {
                 TreeNode node = queue.poll();//poll 出队并返回值。
                 list.add(node.val);
-                if (node.leftchild != null) {
-                    queue.add(node.leftchild);
+                if (node.left != null) {
+                    queue.add(node.left);
                 }
-                if (node.rightchild != null) {
-                    queue.add(node.leftchild);
+                if (node.right != null) {
+                    queue.add(node.left);
                 }
                 count--;
             }

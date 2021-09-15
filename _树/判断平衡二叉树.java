@@ -30,8 +30,8 @@ public class 判断平衡二叉树 {
     public int getDepth(TreeNode root) {
         if (root == null)
             return 0;
-        int left = getDepth(root.leftchild);
-        int right = getDepth(root.rightchild);
+        int left = getDepth(root.left);
+        int right = getDepth(root.right);
 
         if (Math.abs(left - right) > 1) { //Math.abs() 获取绝对值。
             isBalanced = false;
