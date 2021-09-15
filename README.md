@@ -5,11 +5,11 @@
 
 ## 题库
 
-### [LeetCode 高频]()
+### [LeetCode 高频](LeetCode 力扣)
 
-### [NowCoder 高频]()
+### [NowCoder 高频](Now)
 
-### [剑指Offer 第2版]()
+### [剑指Offer 第2版](《剑指Offer（第2版）》)
 
 ### [程序员代码面试指南 第2版]()
 

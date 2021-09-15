@@ -29,7 +29,7 @@ public class Quick_Sort {
     private static  void quickSort(int[] a,int low, int high) {
         if(low<high){ //如果不加这个判断递归会无法退出导致堆栈溢出异常
             int middle=getMiddle(a,low,high);
-            quickSort(a,  0,  middle-1);          //递归对低子表递归排序
+            quickSort(a,  low,  middle-1);          //递归对低子表递归排序
             quickSort(a,   middle + 1, high);        //递归对高子表递归排序
         }
     }
