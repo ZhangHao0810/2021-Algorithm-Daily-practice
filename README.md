@@ -20,23 +20,23 @@
 
 ## 数据结构篇  
 
-### [数组 Array]() 
+### [数组 Array](_数组_链表) 
 大小固定，有序数组就是按一定顺序排列的数组  
 
 ### [链表LinkedList](https://blog.csdn.net/jdsjlzx/article/details/41654295)
 空间可以不连续  
 
-### [栈 Stack]()
+### [栈 Stack](_栈_队列)
 后进先出，Stack底层是采用数组来实现的
 
 ### [队列 Queue ](https://blog.csdn.net/u011240877/article/details/52860924)  
 [QueueDemo]()  
 插入和删除的操作分别在表的两端进行，队列的特点就是先进先出(First In First Out)
  
-### [散列表 Hash (哈希表)]()
+### [散列表 Hash (哈希表)](_哈希表)
 快速的插入操作和查找操作。其key基于数组来实现。key-value 
 
-### [树 Tree]()
+### [树 Tree](_树)
 二叉树  
 完全⼆叉树  
 满二叉树  
@@ -46,10 +46,10 @@
 B树，B+树，B*树  
 LSM树
 
-### [堆 Heap]() 
+### [堆 Heap](_堆_优先队列) 
 是一个可动态申请的内存空间，是一个特殊的二叉树
 
-### [图 Graph]() 
+### [图 Graph](_图) 
 DFS（Deep First Search）深度优先搜索。  
 BFS（Breath First Search）广度优先搜索。
 
