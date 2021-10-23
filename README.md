@@ -5,9 +5,9 @@
 
 ## 题库
 
-### [LeetCode 高频](LeetCode)
+### [LeetCode 高频](LeetCode 力扣 集锦)
 
-### [NowCoder 高频](NowCoder)
+### [NowCoder 高频](NowCoder 牛客题霸 集锦)
 
 ### [剑指Offer 第2版](《剑指Offer（第2版）》)
 
