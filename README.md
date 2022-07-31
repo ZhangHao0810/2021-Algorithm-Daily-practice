@@ -3,11 +3,11 @@
 本项目整理自2021年起收集到的优秀算法，用于熟练编码能力，强化数据结果与算法基础。
 
 
-## 推荐题库
+## 题库列表
 
-### [LeetCode 高频](LeetCode 力扣 集锦)
+### LeetCode 高频
 
-### [NowCoder 高频](NowCoder 牛客题霸 集锦)
+### NowCoder 高频
 
 ### [剑指Offer 第2版](《剑指Offer（第2版）》)
 
