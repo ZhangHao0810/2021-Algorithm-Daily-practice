@@ -40,7 +40,7 @@ class StackPlus {
     private Stack<Integer> stackMin;
 
     //类一定要有构造函数！
-    public StackPlus() {
+    StackPlus() {
         this.stackData = new Stack<>();
         this.stackMin = new Stack<>();
     }
