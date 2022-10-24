@@ -1,149 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6a64729-8294-4f19-9584-35fb0fddfa24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm-Daily-Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core For 数据结构/Core For 数据结构.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/《程序员代码面试指南（第2版）》/《程序员代码面试指南（第2版）》.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/ListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/QueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/SetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/SetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/各种数据结构的优缺点.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/各种数据结构的优缺点.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/基本数据结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/基本数据结构.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/图.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/图.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/堆.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/堆.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/堆.png" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/堆.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/散列表（1.7及之前HashMap底层实现）.png" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/散列表（1.7及之前HashMap底层实现）.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/散列表（Hash表）.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/散列表（Hash表）.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/数组.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/栈.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/栈.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/栈.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/栈.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/树.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/树.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/树（二叉树）.png" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/树（二叉树）.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/链表.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/链表.png" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/链表.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/队列.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/队列.png" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/#基本数据结构/数据结构简介/队列.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/哈希表/三数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/哈希表/三数之和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/哈希表/两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/哈希表/两数之和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/哈希表/有效的字母异位词.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/哈希表/有效的字母异位词.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/哈希表/表达式求值.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/哈希表/表达式求值.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/堆_优先队列/介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/堆_优先队列/介绍.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/堆_优先队列/数组中的第K个最大元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/堆_优先队列/数组中的第K个最大元素.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/堆_优先队列/返回滑动窗口的最大值.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/堆_优先队列/返回滑动窗口的最大值.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/堆_优先队列/队列的一些API.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/堆_优先队列/队列的一些API.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/字符串/回文串_最长回文子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/字符串/回文串_最长回文子串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/字符串/回文串_最长回文子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/字符串/回文串_最长回文子序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/字符串/回文串_构造最长回文串.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/字符串/回文串_构造最长回文串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/字符串/回文串_验证回文串.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/字符串/回文串_验证回文串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/字符串/将字符串转换成整数.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/字符串/将字符串转换成整数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/字符串/替换空格.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/字符串/替换空格.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/字符串/最长公共前缀.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/字符串/最长公共前缀.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/字符串/计算括号序列的深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/字符串/计算括号序列的深度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_01交换排序/Bubble_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_01交换排序/Bubble_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_01交换排序/Bubble_Sort自测.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_01交换排序/Bubble_Sort自测.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_01交换排序/Quick_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_01交换排序/Quick_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_01交换排序/Quick_Sort自测.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_01交换排序/Quick_Sort自测.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_02插入排序/Shell_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_02插入排序/Shell_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_02插入排序/Shell_Sort自测.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_02插入排序/Shell_Sort自测.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_02插入排序/Straight_Insertion_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_02插入排序/Straight_Insertion_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_02插入排序/Straight_Insertion_Sort自测.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_02插入排序/Straight_Insertion_Sort自测.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_03选择排序/Heap_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_03选择排序/Heap_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_03选择排序/Heap_Sort自测.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_03选择排序/Heap_Sort自测.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_03选择排序/Simple_Selection_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_03选择排序/Simple_Selection_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_03选择排序/Simple_Selection_Sort_1自测.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_03选择排序/Simple_Selection_Sort_1自测.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_03选择排序/Simple_Selection_Sort_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_03选择排序/Simple_Selection_Sort_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_03选择排序/Simple_Selection_Sort_2自测.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_03选择排序/Simple_Selection_Sort_2自测.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_04归并排序/Merge_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_04归并排序/Merge_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_04归并排序/Merge_Sort自测.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_04归并排序/Merge_Sort自测.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_05桶排序_基数排序/Radix_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_05桶排序_基数排序/Radix_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/_05桶排序_基数排序/Radix_Sort自测.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/_05桶排序_基数排序/Radix_Sort自测.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/各种排序时间空间复杂度稳定性等总结.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/各种排序时间空间复杂度稳定性等总结.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/排序算法说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/排序算法说明.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/排序算法/输入n个整数_找出其中最小的K个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/排序算法/输入n个整数_找出其中最小的K个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/两数相加.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/两数相加.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/从尾到头打印链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/从尾到头打印链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/使用链表实现大数加法.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/使用链表实现大数加法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/删除单链表中的节点时间复杂度1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/删除单链表中的节点时间复杂度1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/判断一个链表是否为回文链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/判断一个链表是否为回文链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/判断链表中是否存在环问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/判断链表中是否存在环问题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/反转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/反转链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/基础知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/基础知识.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/将链表相邻的两个节点反转.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/将链表相邻的两个节点反转.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/带环的链表如何定位环入口.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/带环的链表如何定位环入口.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/带环的链表计算环长度.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/带环的链表计算环长度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/斐波那契数列.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/斐波那契数列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/有序数组或链表的高效去重.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/有序数组或链表的高效去重.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/有序链表合并.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/有序链表合并.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/数组_链表/输出单链表倒数第K个节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/数组_链表/输出单链表倒数第K个节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/栈_队列/判断括号字符串中的括号是否有效.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/栈_队列/判断括号字符串中的括号是否有效.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/栈_队列/包含min函数的栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/栈_队列/包含min函数的栈.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/栈_队列/栈和队列常用的Api.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/栈_队列/栈和队列常用的Api.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/栈_队列/栈的压入_弹出序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/栈_队列/栈的压入_弹出序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/栈_队列/用两个栈实现队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/栈_队列/用两个栈实现队列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/中序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/中序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/不同的二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/不同的二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/两个二叉树是否互为镜像.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/两个二叉树是否互为镜像.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/两个二叉树是否完全相等.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/两个二叉树是否完全相等.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/二叉树内两个节点的最长距离.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/二叉树内两个节点的最长距离.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/二叉树的层次遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/二叉树的层次遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/二叉树的搜索区间.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/二叉树的搜索区间.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/判断二叉树是否是合法的二叉查找树.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/判断二叉树是否是合法的二叉查找树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/判断二叉树是否是完全二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/判断二叉树是否是完全二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/判断二叉树是否是平衡二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/判断二叉树是否是平衡二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/前序遍历和后序遍历构造二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/前序遍历和后序遍历构造二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/在二叉树中插入节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/在二叉树中插入节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/求两个二叉树的最低公共祖先节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/求两个二叉树的最低公共祖先节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/求二叉树中叶子节点的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/求二叉树中叶子节点的个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/求二叉树中第k层节点的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/求二叉树中第k层节点的个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/求二叉树中节点的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/求二叉树中节点的个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/求二叉树的最大深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/求二叉树的最大深度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/求二叉树的最小深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/求二叉树的最小深度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/翻转二叉树or镜像二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/翻转二叉树or镜像二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/二叉树高频面试题/输入一个二叉树和一个整数_打印出二叉树中节点值的和等于输入整数所有的路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/二叉树高频面试题/输入一个二叉树和一个整数_打印出二叉树中节点值的和等于输入整数所有的路径.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/判断平衡二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/判断平衡二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/前序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/前序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/后序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/后序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/树/层次遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core For 数据结构/树/层次遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ01二维数组中的查找.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ01二维数组中的查找.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ02替换空格.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ02替换空格.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ03从尾到头打印链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ03从尾到头打印链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ04重建二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ04重建二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ05用两个栈实现队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ05用两个栈实现队列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ06旋转数组的最小数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ06旋转数组的最小数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ07斐波那契数列.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ07斐波那契数列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ08青蛙跳台阶.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ08青蛙跳台阶.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ09跳台阶扩展问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ09跳台阶扩展问题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ10矩形覆盖.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ10矩形覆盖.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ11二进制中1的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ11二进制中1的个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ12数值的整数次方.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ12数值的整数次方.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ13调整数组顺序使奇数位于偶数前面.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ13调整数组顺序使奇数位于偶数前面.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ14链表中倒数最后k个结点.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ14链表中倒数最后k个结点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ15反转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ15反转链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ16合并两个排序的链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ16合并两个排序的链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ17树的子结构.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ17树的子结构.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ18二叉树的镜像.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ18二叉树的镜像.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ18扩展_栈和队列常用的Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ18扩展_栈和队列常用的Api.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ19顺时针打印矩阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ19顺时针打印矩阵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ20包含min函数的栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ20包含min函数的栈.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ21栈的压入_弹出序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ21栈的压入_弹出序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ22从上往下打印二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ22从上往下打印二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ23二叉搜索树的后序遍历序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ23二叉搜索树的后序遍历序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ24二叉树中和为某一值的路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ24二叉树中和为某一值的路径.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6a64729-8294-4f19-9584-35fb0fddfa24" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,8 +54,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666581523647</updated>
-      <workItem from="1666581525272" duration="713000" />
+      <workItem from="1666581525272" duration="1060000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1666582481137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666582481137</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
