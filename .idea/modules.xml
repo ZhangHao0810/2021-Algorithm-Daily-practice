@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/2021_算法每日一练.iml" filepath="$PROJECT_DIR$/2021_算法每日一练.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm-Daily-Practice.iml" filepath="$PROJECT_DIR$/Algorithm-Daily-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core For 数据结构/Core For 数据结构.iml" filepath="$PROJECT_DIR$/Core For 数据结构/Core For 数据结构.iml" />
+      <module fileurl="file://$PROJECT_DIR$/《剑指Offer（第2版）》/《剑指Offer（第2版）》.iml" filepath="$PROJECT_DIR$/《剑指Offer（第2版）》/《剑指Offer（第2版）》.iml" />
+      <module fileurl="file://$PROJECT_DIR$/《程序员代码面试指南（第2版）》/《程序员代码面试指南（第2版）》.iml" filepath="$PROJECT_DIR$/《程序员代码面试指南（第2版）》/《程序员代码面试指南（第2版）》.iml" />
     </modules>
   </component>
 </project>
