@@ -1,4 +1,5 @@
 /**
+ * 全局使用的Node类
  * @author Super-Zhang
  * @date 2021-04-21 11:31
  */
@@ -14,8 +15,7 @@ public class Node {
 
     /**
      * 最终返回的就是末位的node， 但是 最开始调用的的参数node是head
-     * 用的是递归思想，所以要有返回值的。
-     * @param i
+     * @param i node 的长度 也是 node 的value值 。
      * @param node
      * @return
      */
