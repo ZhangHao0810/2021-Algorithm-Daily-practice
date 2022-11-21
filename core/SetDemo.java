@@ -40,6 +40,7 @@ public class SetDemo {
 //        2.TreeSet  注意 迭代器提供升序和降序两种迭代。
         demo.treeSetDemo();
 
+
 //        TreeSet排序测试
 //        1.自然排序
         naturalSort();

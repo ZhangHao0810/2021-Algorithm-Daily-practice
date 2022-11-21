@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/左程云-牛客算法课程-入门篇" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/设计模式" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/面试算法真题" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
