@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/10_K最近邻算法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11_接下来如何做" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1_算法简介" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2_选择排序" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_递归" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_快速排序" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5_散列表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6_广度优先搜索" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7_狄克斯特拉算法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8_贪婪算法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9_动态规划" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
