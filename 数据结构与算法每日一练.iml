@@ -26,6 +26,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Core/图" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Core" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode 力扣 高频" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/剑指Offer _第二版_Java实现" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaGuid_面试算法实操" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/小葵花算法幼儿园" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
