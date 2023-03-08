@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/#基本数据结构" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/不同数据结构的经典算法题/哈希表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/不同数据结构的经典算法题/堆_优先队列" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/不同数据结构的经典算法题/字符串" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/不同数据结构的经典算法题/排序算法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/不同数据结构的经典算法题/数组_链表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/不同数据结构的经典算法题/栈_队列" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/不同数据结构的经典算法题/树" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

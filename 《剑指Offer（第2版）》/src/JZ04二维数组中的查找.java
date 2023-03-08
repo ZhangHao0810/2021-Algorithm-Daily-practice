@@ -18,7 +18,7 @@
  * 0 <= array.length <= 500
  * 0 <= array[0].length <= 500
  */
-public class JZ01二维数组中的查找 {
+public class JZ04二维数组中的查找 {
 
     /**
      * 思路很重要，暴力解法不可取。O(m*n)
@@ -27,6 +27,8 @@ public class JZ01二维数组中的查找 {
      * 我为这种方法起了一个名字： 【对角元素限制法】
      * <p>
      * 见名之意，日后遇见类似二维数组中查找的题目，可借鉴对角元素限制法。
+     *
+     * 仔细分析给定数组的形式，从列和行的反极开始遍历。如 行最大列最小 or 行最小列最大。
      */
 
     public boolean find(int target, int[][] arrary) {

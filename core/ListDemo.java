@@ -1,6 +1,5 @@
 
 
-import java.time.OffsetDateTime;
 import java.util.*;
 
 /**
@@ -10,12 +9,12 @@ import java.util.*;
  * 可以精确控制元素位置的集合。 有序。
  * <p>
  * List的常⻅实现类
- * ArrayList 是⼀个数组队列，相当于动态数组。它由数组实现，随机访问效率⾼，随机插⼊、随机删除
- * 效率低。
- * LinkedList 是⼀个双向链表。它也可以被当作堆栈、队列或双端队列进⾏操作。LinkedList随机访问
- * 效率低，但随机插⼊、随机删除效率⾼。
- * Vector 是⽮量队列，和ArrayList⼀样，它也是⼀个动态数组，由数组实现。但是ArrayList是⾮线程
- * 安全的，⽽Vector是线程安全的。
+ * ArrayList 是⼀个数组队列，相当于动态数组。
+ *  它由数组实现，随机访问效率⾼，随机插⼊、随机删除效率低。
+ * LinkedList 是⼀个双向链表。它也可以被当作堆栈、队列或双端队列进⾏操作。
+ *  LinkedList随机访问效率低，但随机插⼊、随机删除效率⾼。
+ * Vector 是⽮量队列，和ArrayList⼀样，它也是⼀个动态数组，由数组实现。
+ *  但是ArrayList是⾮线程安全的，⽽Vector是线程安全的。
  * Stack 是栈，它继承于Vector。它的特性是：先进后出(FILO, First In Last Out)。
  * <p>
  * ArrayList到了最大值，扩容至原来的1.5倍，而Vector则变为2倍。
@@ -56,7 +55,7 @@ public class ListDemo {
 //        改
         list.set(2, "hahaha");
 
-//        遍历
+//        遍历的三种方式 普通 for，增强for，迭代器Iterator。 推荐增强for，内部实现了迭代器。
         for (int i = 0; i < list.size(); i++) {
             System.out.println(list.get(i));
         }
@@ -146,7 +145,7 @@ public class ListDemo {
         // 如何将一个非线程安全的ArrayList转换成线程安全的ArrayList
         List list = new ArrayList();  // 这是一个非线程安全的ArrayList
         // 调用Collections.synchronizedList(list<Object> list)方法
-        Collections.synchronizedList(list);  // list已经是线程安全的了
+        List list1 = Collections.synchronizedList(list);// list1是线程安全的了
 
         Vector<String> hs = new Vector<String>();
         hs.add("aa");
