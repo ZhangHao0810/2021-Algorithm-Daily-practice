@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6a64729-8294-4f19-9584-35fb0fddfa24" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/《算法图解》/1_算法简介/二分查找.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/《算法图解》/1_算法简介/常见的大O运行时间.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/《算法图解》/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/《算法图解》/《算法图解》.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7b61fdd4-bcb6-41b7-b501-d2baa82ecd72" name="Default" comment="update to latest">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法每日一练.iml" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法每日一练.iml" afterDir="false" />
     </list>
+    <list id="aa21c240-5610-4221-8dfc-02648172c718" name="Revert &quot;update&quot;" comment="Revert &quot;update&quot;&#10;&#10;This reverts commit 63a5a2b" />
+    <list id="c644ea6c-c0c9-4bdf-a34a-82e16bd952fb" name="Revert: update" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,26 +34,140 @@
       </list>
     </option>
   </component>
-  <component name="FormatOnSaveOptions">
-    <option name="myRunOnSave" value="true" />
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>oa</find>
+      <find>j</find>
+      <find>r[</find>
+      <find>high</find>
+      <find>mid</find>
+      <find>left</find>
+      <find>\</find>
+      <find>$PROJECT_DIR$/</find>
+      <find>node</find>
+      <find>List</find>
+      <find>start</find>
+      <find>ListNode</find>
+      <find>Node</find>
+      <find>nums</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>or</replace>
+      <replace>i</replace>
+      <replace>arr[</replace>
+      <replace>right</replace>
+      <replace>tmpR</replace>
+      <replace>tmpL</replace>
+      <replace>Node</replace>
+      <replace>point</replace>
+      <replace>Node有序链表合并</replace>
+      <replace>ListNode</replace>
+      <replace>num</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/左程云-牛客-算法课程-入门/开班测评/_03操作序列.java" />
+        <option value="$PROJECT_DIR$/左程云-牛客-算法课程-入门/开班测评/_04最长公共子序列.java" />
+        <option value="$PROJECT_DIR$/左程云-牛客-算法课程-入门/第一章/位运算.md" />
+        <option value="$PROJECT_DIR$/BMW-Java/_基本数据结构_/SetDemo.java" />
+        <option value="$PROJECT_DIR$/BMW-Java/排序/排序算法说明.md" />
+        <option value="$PROJECT_DIR$/BMW-Java/排序/交换排序/Bubble_Sort.java" />
+        <option value="$PROJECT_DIR$/test/Codetest.java" />
+        <option value="$PROJECT_DIR$/设计模式/src/设计模式.md" />
+        <option value="$PROJECT_DIR$/设计模式/单例模式/饿汉式.java" />
+        <option value="$PROJECT_DIR$/设计模式/工厂模式/简介.md" />
+        <option value="$PROJECT_DIR$/设计模式/工厂模式/抽象工厂模式.java" />
+        <option value="$PROJECT_DIR$/设计模式/策略模式/策略模式.java" />
+        <option value="$PROJECT_DIR$/BMW-Java/优先队列_堆/返回滑动窗口的最大值.java" />
+        <option value="$PROJECT_DIR$/BMW-Java/排序/插入排序/Shell_Sort.java" />
+        <option value="$PROJECT_DIR$/BMW-Java/排序/交换排序/Quick_Sort.java" />
+        <option value="$PROJECT_DIR$/BMW-Java/排序/归并排序/Merge_Sort.java" />
+        <option value="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ03从尾到头打印链表.java" />
+        <option value="$PROJECT_DIR$/_数组_链表/使用链表实现大数加法.java" />
+        <option value="$PROJECT_DIR$/_基本数据结构_/ListNode.java" />
+        <option value="$PROJECT_DIR$/_哈希表/两数之和.java" />
+        <option value="$PROJECT_DIR$/_哈希表/三数之和.java" />
+        <option value="$PROJECT_DIR$/_1排序算法/_02插入排序/Shell_Sort.java" />
+        <option value="$PROJECT_DIR$/_1排序算法/_05桶排序_基数排序/Radix_Sort.java" />
+        <option value="$PROJECT_DIR$/算法思想：递归/feibo.java" />
+        <option value="$PROJECT_DIR$/BMW-Java/排序/输入n个整数_找出其中最小的K个数.java" />
+        <option value="$PROJECT_DIR$/_1排序算法/输入n个整数_找出其中最小的K个数.java" />
+        <option value="$PROJECT_DIR$/《剑指Offer（第2版）》/JZ04重建二叉树.java" />
+        <option value="$PROJECT_DIR$/_0基本数据结构/TreeNode.java" />
+        <option value="$PROJECT_DIR$/_1排序算法/_04归并排序/Merge_Sort.java" />
+        <option value="$PROJECT_DIR$/_1排序算法/_01交换排序/Quick_Sort.java" />
+        <option value="$PROJECT_DIR$/_堆_优先队列/数组中的第K个最大元素.java" />
+        <option value="$PROJECT_DIR$/_数组_链表/链表中带环问题/Node.java" />
+        <option value="$PROJECT_DIR$/_数组_链表/链表中带环问题/带环的链表如何定位环入口.java" />
+        <option value="$PROJECT_DIR$/_数组_链表/链表中带环问题/判断链表中是否存在环问题.java" />
+        <option value="$PROJECT_DIR$/_数组_链表/判断链表中是否存在环问题.java" />
+        <option value="$PROJECT_DIR$/_树/层次遍历.java" />
+        <option value="$PROJECT_DIR$/_树/中序遍历.java" />
+        <option value="$PROJECT_DIR$/_0基本数据结构/ListNode.java" />
+        <option value="$PROJECT_DIR$/_树/判断平衡二叉树.java" />
+        <option value="$PROJECT_DIR$/_树/后序遍历.java" />
+        <option value="$PROJECT_DIR$/《程序员代码面试指南（第2版）》/Ⅰ栈和队列/_2_由两个栈组成的队列.java" />
+        <option value="$PROJECT_DIR$/面试算法真题/Test2.java" />
+        <option value="$PROJECT_DIR$/_树/二叉树高频面试题/二叉树的层次遍历.java" />
+        <option value="$PROJECT_DIR$/_树/前序遍历.java" />
+        <option value="$PROJECT_DIR$/Core/_0基本数据结构/基本数据结构.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Core/Java集合框架类/Java集合框架类.md" />
+        <option value="$PROJECT_DIR$/Core/Java集合框架类/集合框架类.md" />
+        <option value="$PROJECT_DIR$/设计模式/单例模式/Singleton.java" />
+        <option value="$PROJECT_DIR$/设计模式/工厂模式/工厂方法模式.java" />
+        <option value="$PROJECT_DIR$/《程序员代码面试指南（第2版）》/Ⅰ栈和队列/_1_设计一个有getMin功能的栈.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2GZ1vaaTFMEeaNRmyNdyVkW3Jzo" />
-  <component name="ProjectLevelVcsManager">
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="84" />
+    <option name="y" value="-10" />
+    <option name="width" value="931" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectId" id="2CgN4XWKWhYwHqJIPI8iUVjSXQy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="小葵花算法幼儿园-算法每日一练" type="b2602c69:ProjectViewProjectNode" />
+              <item name="小葵花算法幼儿园-算法每日一练" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,107 +176,716 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="最长&#9;PSI&#9;JAVA://开班测评._04最长公共子序列&#10;.&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/util/PriorityQueue.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8 (3)" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/BMW-Java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3273728" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Data\IDEA DATA\2021_算法每日一练\src\排序" />
+      <recent name="D:\Data\IDEA DATA\2021_算法每日一练\src\_基本数据结构_" />
+      <recent name="D:\Data\IDEA DATA\2021_算法每日一练\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IDEA\Algorithm-Daily-Practice\core" />
-      <recent name="E:\IDEA\Algorithm-Daily-Practice\Core For 数据结构\不同数据结构的经典算法题" />
-      <recent name="E:\IDEA\Algorithm-Daily-Practice\《剑指Offer（第2版）》\src" />
+      <recent name="D:\Data\IDEA DATA\数据结构与算法每日一练\剑指Offer _第二版_Java实现" />
+      <recent name="D:\Data\IDEA DATA\数据结构与算法每日一练\设计模式\单例模式" />
+      <recent name="D:\Data\IDEA DATA\数据结构与算法每日一练\设计模式\装饰者模式" />
+      <recent name="D:\Data\IDEA DATA\2021_算法每日一练\ZhangHao自整理" />
+      <recent name="D:\Data\IDEA DATA\2021_算法每日一练\_字符串" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="链表中带环问题" />
+      <recent name="数组和链表.链表中带环问题" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.二分查找">
-    <configuration name="二分查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="二分查找" />
-      <module name="《算法图解》" />
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="带环的链表如何定位环入口" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组和链表.链表中带环问题.带环的链表如何定位环入口" />
+      <module name="数据结构与算法每日一练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组和链表.链表中带环问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JZ03数组中重复的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JZ03数组中重复的数字" />
-      <module name="《剑指Offer（第2版）》" />
+    <configuration name="春招2021_10th淘汰分数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="美团.春招2021_10th淘汰分数" />
+      <module name="数据结构与算法每日一练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="美团.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="Codetest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codetest" />
+      <module name="数据结构与算法每日一练" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quick_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01交换排序.Quick_Sort" />
+      <module name="数据结构与算法每日一练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01交换排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shell_Sort自测" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02插入排序.Shell_Sort自测" />
+      <module name="数据结构与算法每日一练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_02插入排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="数据结构与算法每日一练" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="带环的链表计算环长度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组和链表.链表中带环问题.带环的链表计算环长度" />
+      <module name="2021_算法每日一练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组和链表.链表中带环问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="将链表相邻的两个节点反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组和链表.链表中带环问题.将链表相邻的两个节点反转" />
+      <module name="2021_算法每日一练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组和链表.链表中带环问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="判断链表中是否存在环问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组和链表.链表中带环问题.判断链表中是否存在环问题" />
+      <module name="2021_算法每日一练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组和链表.链表中带环问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="反转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组和链表.反转链表" />
+      <module name="2021_算法每日一练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组和链表.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="反转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组和链表.反转链表" />
+      <module name="2021_算法每日一练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组和链表.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串.最长公共前缀" />
+      <module name="2021_算法每日一练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="后序遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="树.后序遍历" />
+      <module name="2021_算法每日一练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="树.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="表达式求值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="哈希表.表达式求值" />
+      <module name="2021_算法每日一练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="哈希表.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="Algorithm-Daily-Practice" />
+      <module name="设计模式" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Algorithm-Daily-Practice" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.带环的链表如何定位环入口" />
+      <item itemvalue="Application.春招2021_10th淘汰分数" />
+      <item itemvalue="Application.Codetest" />
+      <item itemvalue="Application.Quick_Sort" />
+      <item itemvalue="Application.Shell_Sort自测" />
+      <item itemvalue="Application.Test2" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.二分查找" />
-        <item itemvalue="Application.JZ03数组中重复的数字" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Shell_Sort自测" />
+        <item itemvalue="Application.Quick_Sort" />
+        <item itemvalue="Application.Codetest" />
+        <item itemvalue="Application.春招2021_10th淘汰分数" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c6a64729-8294-4f19-9584-35fb0fddfa24" name="Changes" comment="" />
-      <created>1666581523647</created>
+      <changelist id="7b61fdd4-bcb6-41b7-b501-d2baa82ecd72" name="Default" comment="" />
+      <changelist id="c644ea6c-c0c9-4bdf-a34a-82e16bd952fb" name="Revert: update" comment="" />
+      <created>1616162469359</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1666581523647</updated>
-      <workItem from="1666581525272" duration="2339000" />
-      <workItem from="1666659915683" duration="19000" />
-      <workItem from="1666832017344" duration="4160000" />
-      <workItem from="1666917877577" duration="3070000" />
-      <workItem from="1666927698937" duration="194000" />
-      <workItem from="1666939930714" duration="24000" />
-      <workItem from="1667178742774" duration="3181000" />
-      <workItem from="1667204775732" duration="23000" />
-      <workItem from="1668991298867" duration="2586000" />
-      <workItem from="1669077624058" duration="1138000" />
-      <workItem from="1673492721840" duration="4086000" />
+      <updated>1616162469359</updated>
+      <workItem from="1616162470765" duration="972000" />
+      <workItem from="1616239501779" duration="3390000" />
+      <workItem from="1616292769296" duration="2282000" />
+      <workItem from="1616308752441" duration="8547000" />
+      <workItem from="1616383275472" duration="7571000" />
+      <workItem from="1616418391076" duration="3403000" />
+      <workItem from="1616468378276" duration="2896000" />
+      <workItem from="1617001749731" duration="3000" />
+      <workItem from="1617264203062" duration="5537000" />
+      <workItem from="1617585382894" duration="21981000" />
+      <workItem from="1617674010025" duration="13559000" />
+      <workItem from="1617758233271" duration="15240000" />
+      <workItem from="1617842680159" duration="13026000" />
+      <workItem from="1617930043753" duration="2890000" />
+      <workItem from="1618207886822" duration="116000" />
+      <workItem from="1618629215184" duration="1063000" />
+      <workItem from="1618812986543" duration="5883000" />
+      <workItem from="1618838420828" duration="1792000" />
+      <workItem from="1618908305653" duration="1144000" />
+      <workItem from="1618968867646" duration="12566000" />
+      <workItem from="1619053161305" duration="4980000" />
+      <workItem from="1619689854137" duration="1346000" />
+      <workItem from="1619705937284" duration="6770000" />
+      <workItem from="1620466401409" duration="5378000" />
+      <workItem from="1620565248777" duration="12117000" />
+      <workItem from="1620888805841" duration="9641000" />
+      <workItem from="1620956223307" duration="13668000" />
+      <workItem from="1620981510129" duration="1185000" />
+      <workItem from="1621217375348" duration="7128000" />
+      <workItem from="1621303578531" duration="3160000" />
+      <workItem from="1621818437603" duration="3205000" />
+      <workItem from="1623893745501" duration="23000" />
+      <workItem from="1624001283616" duration="3134000" />
+      <workItem from="1624024569532" duration="2265000" />
+      <workItem from="1624928802016" duration="14637000" />
+      <workItem from="1625013354674" duration="1897000" />
+      <workItem from="1625106405862" duration="548000" />
+      <workItem from="1625129171892" duration="3378000" />
+      <workItem from="1625182783866" duration="113000" />
+      <workItem from="1625406290971" duration="3821000" />
+      <workItem from="1625460803017" duration="4239000" />
+      <workItem from="1625477339970" duration="698000" />
+      <workItem from="1625489448383" duration="27000" />
+      <workItem from="1625535466874" duration="6505000" />
+      <workItem from="1625614420453" duration="7764000" />
+      <workItem from="1625733024761" duration="162000" />
+      <workItem from="1626053930493" duration="2979000" />
+      <workItem from="1626078009744" duration="6000" />
+      <workItem from="1626408228298" duration="1265000" />
+      <workItem from="1626596286619" duration="631000" />
+      <workItem from="1626866540318" duration="1322000" />
+      <workItem from="1627442525024" duration="4142000" />
+      <workItem from="1627479103260" duration="2468000" />
+      <workItem from="1627528275471" duration="599000" />
+      <workItem from="1627560416592" duration="1429000" />
+      <workItem from="1627868366976" duration="9220000" />
+      <workItem from="1627960122420" duration="11667000" />
+      <workItem from="1628125292008" duration="5029000" />
+      <workItem from="1628386322375" duration="15000" />
+      <workItem from="1628423046359" duration="1963000" />
+      <workItem from="1629100482378" duration="36000" />
+      <workItem from="1629247482779" duration="1160000" />
+      <workItem from="1629462654865" duration="34000" />
+      <workItem from="1630058726843" duration="14796000" />
+      <workItem from="1630130525187" duration="1613000" />
+      <workItem from="1630412373533" duration="108000" />
+      <workItem from="1630419410011" duration="8569000" />
+      <workItem from="1630637369455" duration="2512000" />
+      <workItem from="1630642106000" duration="21000" />
+      <workItem from="1630737724374" duration="3582000" />
+      <workItem from="1630937226589" duration="947000" />
+      <workItem from="1631085985512" duration="6733000" />
+      <workItem from="1631110128604" duration="2596000" />
+      <workItem from="1631158440905" duration="1569000" />
+      <workItem from="1631169423955" duration="1823000" />
+      <workItem from="1631173203124" duration="6301000" />
+      <workItem from="1631231729160" duration="6000" />
+      <workItem from="1631231985293" duration="2749000" />
+      <workItem from="1631281752294" duration="670000" />
+      <workItem from="1631315718933" duration="14000" />
+      <workItem from="1631317665192" duration="2416000" />
+      <workItem from="1631578145677" duration="595000" />
+      <workItem from="1631666101859" duration="15000" />
+      <workItem from="1631667683087" duration="2802000" />
+      <workItem from="1631670510122" duration="570000" />
+      <workItem from="1631691144171" duration="1929000" />
+      <workItem from="1631756144651" duration="1764000" />
+      <workItem from="1632403581674" duration="256000" />
+      <workItem from="1632620312117" duration="36000" />
+      <workItem from="1633749324130" duration="1987000" />
+      <workItem from="1634998718267" duration="315000" />
+      <workItem from="1635858867963" duration="602000" />
+      <workItem from="1636031117190" duration="913000" />
+      <workItem from="1637242410701" duration="44000" />
+      <workItem from="1637554328527" duration="4000" />
+      <workItem from="1651049368995" duration="2761000" />
+      <workItem from="1651106832908" duration="851000" />
+      <workItem from="1652427063524" duration="108000" />
+      <workItem from="1654323889280" duration="1696000" />
+      <workItem from="1659220078628" duration="4312000" />
+      <workItem from="1678228706086" duration="837000" />
+      <workItem from="1678239731870" duration="478000" />
     </task>
-    <task id="LOCAL-00001" summary=".">
-      <created>1666582481137</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00042" summary="update  定位带环链表环入口和环长度计算。">
+      <created>1619058239461</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
       <option name="project" value="LOCAL" />
-      <updated>1666582481137</updated>
+      <updated>1619058239461</updated>
     </task>
-    <task id="LOCAL-00002" summary="update">
-      <created>1666862353216</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00043" summary="update  输出单链表倒数第K个节点">
+      <created>1619691263450</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
       <option name="project" value="LOCAL" />
-      <updated>1666862353216</updated>
+      <updated>1619691263450</updated>
     </task>
-    <task id="LOCAL-00003" summary="update">
-      <created>1668993884983</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00044" summary="update  使用链表实现大数加法">
+      <created>1619706982808</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
       <option name="project" value="LOCAL" />
-      <updated>1668993884983</updated>
+      <updated>1619706982808</updated>
     </task>
-    <task id="LOCAL-00004" summary="update">
-      <created>1669078558027</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00045" summary="update  删除单链表中节点，要求时间复杂度为O(1)">
+      <created>1619741687000</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
       <option name="project" value="LOCAL" />
-      <updated>1669078558027</updated>
+      <updated>1619741687000</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00046" summary="update  将两个有序链表合并为一个新的有序链表并返回">
+      <created>1619741709841</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1619741709841</updated>
+    </task>
+    <task id="LOCAL-00047" summary="update  从头到尾打印链表">
+      <created>1619743072717</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1619743072717</updated>
+    </task>
+    <task id="LOCAL-00048" summary="update 高效对有序数组/链表去重">
+      <created>1619743093313</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1619743093313</updated>
+    </task>
+    <task id="LOCAL-00049" summary="update 判断一个链表是否为回文链表">
+      <created>1619744061360</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1619744061360</updated>
+    </task>
+    <task id="LOCAL-00050" summary="update 栈和队列章节内容">
+      <created>1620482822629</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1620482822630</updated>
+    </task>
+    <task id="LOCAL-00051" summary="update 优先队列">
+      <created>1620568970552</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1620568970553</updated>
+    </task>
+    <task id="LOCAL-00052" summary="update">
+      <created>1620908494116</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1620908494116</updated>
+    </task>
+    <task id="LOCAL-00053" summary="update 目录结构">
+      <created>1620980958673</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1620980958673</updated>
+    </task>
+    <task id="LOCAL-00054" summary="update 力扣 001">
+      <created>1620981033262</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1620981033262</updated>
+    </task>
+    <task id="LOCAL-00055" summary="update 力扣 002">
+      <created>1620981044727</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1620981044727</updated>
+    </task>
+    <task id="LOCAL-00056" summary="update 力扣 003">
+      <created>1620981053225</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1620981053225</updated>
+    </task>
+    <task id="LOCAL-00057" summary="update 力扣 003">
+      <created>1620981182510</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1620981182510</updated>
+    </task>
+    <task id="LOCAL-00058" summary="update 力扣 004">
+      <created>1620981204773</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1620981204773</updated>
+    </task>
+    <task id="LOCAL-00059" summary="update">
+      <created>1621232380986</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1621232380987</updated>
+    </task>
+    <task id="LOCAL-00060" summary="update 树的 前中后序遍历">
+      <created>1621232410214</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1621232410214</updated>
+    </task>
+    <task id="LOCAL-00061" summary="update 层次遍历">
+      <created>1621232429675</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1621232429675</updated>
+    </task>
+    <task id="LOCAL-00062" summary="update">
+      <created>1621232466182</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1621232466182</updated>
+    </task>
+    <task id="LOCAL-00063" summary="update TreeNode">
+      <created>1621232490679</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1621232490679</updated>
+    </task>
+    <task id="LOCAL-00064" summary="update">
+      <created>1621232590256</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1621232590256</updated>
+    </task>
+    <task id="LOCAL-00065" summary="update 二叉树的部分高频面试题">
+      <created>1621307484704</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1621307484705</updated>
+    </task>
+    <task id="LOCAL-00066" summary="update 二叉树的部分高频面试题">
+      <created>1621821549317</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1621821549318</updated>
+    </task>
+    <task id="LOCAL-00067" summary="update">
+      <created>1624932311974</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1624932311974</updated>
+    </task>
+    <task id="LOCAL-00068" summary="update JavaGuide 字符串系列。">
+      <created>1624970305044</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1624970305044</updated>
+    </task>
+    <task id="LOCAL-00069" summary="update">
+      <created>1625410049341</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1625410049342</updated>
+    </task>
+    <task id="LOCAL-00070" summary="update">
+      <created>1625489464070</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1625489464070</updated>
+    </task>
+    <task id="LOCAL-00071" summary="update">
+      <created>1625545630741</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1625545630743</updated>
+    </task>
+    <task id="LOCAL-00072" summary="update 左程云算法">
+      <created>1627873368662</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1627873368663</updated>
+    </task>
+    <task id="LOCAL-00073" summary="update JZ">
+      <created>1627973135213</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1627973135214</updated>
+    </task>
+    <task id="LOCAL-00074" summary="update">
+      <created>1627973155921</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1627973155921</updated>
+    </task>
+    <task id="LOCAL-00075" summary="update">
+      <created>1630117810337</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1630117810339</updated>
+    </task>
+    <task id="LOCAL-00076" summary="update">
+      <created>1631088319535</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1631088319535</updated>
+    </task>
+    <task id="LOCAL-00077" summary="update">
+      <created>1631090842906</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1631090842907</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Historic renewal">
+      <created>1631194167310</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1631194167310</updated>
+    </task>
+    <task id="LOCAL-00079" summary="update">
+      <created>1631194904114</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1631194904114</updated>
+    </task>
+    <task id="LOCAL-00080" summary="update readme">
+      <created>1631194917797</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1631194917797</updated>
+    </task>
+    <task id="LOCAL-00081" summary="update readme">
+      <created>1631196593598</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1631196593598</updated>
+    </task>
+    <task id="LOCAL-00082" summary="update">
+      <created>1631668668991</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1631668668992</updated>
+    </task>
+    <task id="LOCAL-00083" summary="update">
+      <created>1631670560230</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1631670560231</updated>
+    </task>
+    <task id="LOCAL-00084" summary="update">
+      <created>1631670693738</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1631670693738</updated>
+    </task>
+    <task id="LOCAL-00085" summary="update">
+      <created>1633789873717</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1633789873718</updated>
+    </task>
+    <task id="LOCAL-00086" summary="update">
+      <created>1634998846985</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1634998846985</updated>
+    </task>
+    <task id="LOCAL-00087" summary="update">
+      <created>1634998929635</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1634998929635</updated>
+    </task>
+    <task id="LOCAL-00088" summary="update to latest">
+      <created>1659234397628</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1659234397629</updated>
+    </task>
+    <task id="LOCAL-00089" summary="update to latest">
+      <created>1659235150667</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1659235150667</updated>
+    </task>
+    <task id="LOCAL-00090" summary="update to latest">
+      <created>1678229047006</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1678229047007</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="359888000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1563" height="845" extended-state="7" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50378525" side_tool="true" weight="0.25032938" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.34979972" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49621472" weight="0.32042724" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47881356" visible="true" weight="0.21063124" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32986832" />
+      <window_info anchor="right" id="Structure" order="1" sideWeight="0.5211864" side_tool="true" weight="0.1919612" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49965587" weight="0.39548022" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24948025" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4986226" weight="0.3070761" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" x="0" y="0" width="325" height="686" id="Documentation" order="9" side_tool="true" weight="0.32986832" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4993113" weight="0.32843792" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -167,8 +902,459 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
+    <MESSAGE value="update  输出单链表倒数第K个节点" />
+    <MESSAGE value="update  使用链表实现大数加法" />
+    <MESSAGE value="update  删除单链表中节点，要求时间复杂度为O(1)" />
+    <MESSAGE value="update  将两个有序链表合并为一个新的有序链表并返回" />
+    <MESSAGE value="update  从头到尾打印链表" />
+    <MESSAGE value="update 高效对有序数组/链表去重" />
+    <MESSAGE value="update 判断一个链表是否为回文链表" />
+    <MESSAGE value="update 栈和队列章节内容" />
+    <MESSAGE value="update 优先队列" />
+    <MESSAGE value="update 目录结构" />
+    <MESSAGE value="update 力扣 001" />
+    <MESSAGE value="update 力扣 002" />
+    <MESSAGE value="update 力扣 003" />
+    <MESSAGE value="update 力扣 004" />
+    <MESSAGE value="update 树的 前中后序遍历" />
+    <MESSAGE value="update 层次遍历" />
+    <MESSAGE value="update TreeNode" />
+    <MESSAGE value="update 二叉树的部分高频面试题" />
+    <MESSAGE value="update JavaGuide 字符串系列。" />
+    <MESSAGE value="update 左程云算法" />
+    <MESSAGE value="update JZ" />
+    <MESSAGE value="Historic renewal" />
+    <MESSAGE value="update readme" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update to latest" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to latest" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Core/数组_链表/从尾到头打印链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_数组_链表/链表中带环问题/判断链表中是否存在环问题.java" />
+    <entry file="file://$PROJECT_DIR$/Core/数组_链表/判断链表中是否存在环问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/#基本数据结构/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/数组_链表/删除单链表中的节点时间复杂度1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《剑指Offer（第2版）》/JZ14链表中倒数最后k个结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/树/判断平衡二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/排序算法/_02插入排序/Shell_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/排序算法/各种排序时间空间复杂度稳定性等总结.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《剑指Offer（第2版）》/JZ16合并两个排序的链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《剑指Offer（第2版）》/JZ12数值的整数次方.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《剑指Offer（第2版）》/JZ19顺时针打印矩阵.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《剑指Offer（第2版）》/JZ20包含min函数的栈.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《剑指Offer（第2版）》/JZ22从上往下打印二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《剑指Offer（第2版）》/JZ23二叉搜索树的后序遍历序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《剑指Offer（第2版）》/JZ18扩展_栈和队列常用的Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《剑指Offer（第2版）》/JZ18二叉树的镜像.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《剑指Offer（第2版）》/JZ17树的子结构.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="40" selection-start-line="16" selection-start-column="33" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《剑指Offer（第2版）》/JZ13调整数组顺序使奇数位于偶数前面.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法思想：递归/feibo.java" />
+    <entry file="file://$PROJECT_DIR$/《程序员代码面试指南（第2版）》/Ⅰ栈和队列/_2_由两个栈组成的队列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/栈_队列/栈和队列常用的Api.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="380">
+            <caret line="35" selection-start-line="35" selection-end-line="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2517">
+          <caret line="510" lean-forward="true" selection-start-line="510" selection-end-line="510" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="644" column="5" lean-forward="true" selection-start-line="644" selection-start-column="5" selection-end-line="644" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试算法真题/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/树/二叉树高频面试题/二叉树的层次遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/树/前序遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/树/后序遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/树/层次遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/树/中序遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/哈希表/两数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/堆_优先队列/数组中的第K个最大元素.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/散列表（1.7及之前HashMap底层实现）.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Java集合框架类/Java集合框架类.md" />
+    <entry file="file://$PROJECT_DIR$/Core/排序算法/排序算法说明.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/哈希表/有效的字母异位词.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/哈希表/表达式求值.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1676">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Java集合框架类/集合框架类.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/#基本数据结构/各种数据结构的优缺点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/#基本数据结构/基本数据结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="17" selection-start-column="17" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/#基本数据结构/数据结构简介/图.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/#基本数据结构/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/#基本数据结构/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设计模式/工厂模式/工厂方法模式.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设计模式/单例模式/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小葵花算法幼儿园-算法每日一练.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/《程序员代码面试指南（第2版）》/Ⅰ栈和队列/_1_设计一个有getMin功能的栈.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/堆_优先队列/介绍.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/堆_优先队列/队列的一些API.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法知识点-思维导图.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>2021_算法每日一练</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3273728" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
