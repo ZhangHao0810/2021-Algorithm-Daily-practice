@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b61fdd4-bcb6-41b7-b501-d2baa82ecd72" name="Default" comment="update to latest">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7b61fdd4-bcb6-41b7-b501-d2baa82ecd72" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构与算法每日一练.iml" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法每日一练.iml" afterDir="false" />
     </list>
     <list id="aa21c240-5610-4221-8dfc-02648172c718" name="Revert &quot;update&quot;" comment="Revert &quot;update&quot;&#10;&#10;This reverts commit 63a5a2b" />
     <list id="c644ea6c-c0c9-4bdf-a34a-82e16bd952fb" name="Revert: update" comment="" />
@@ -493,14 +491,9 @@
       <workItem from="1654323889280" duration="1696000" />
       <workItem from="1659220078628" duration="4312000" />
       <workItem from="1678228706086" duration="837000" />
-      <workItem from="1678239731870" duration="478000" />
-    </task>
-    <task id="LOCAL-00042" summary="update  定位带环链表环入口和环长度计算。">
-      <created>1619058239461</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1619058239461</updated>
+      <workItem from="1678239731870" duration="1239000" />
+      <workItem from="1678247821017" duration="193000" />
+      <workItem from="1678322693731" duration="734000" />
     </task>
     <task id="LOCAL-00043" summary="update  输出单链表倒数第K个节点">
       <created>1619691263450</created>
@@ -838,7 +831,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678229047007</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="update to latest 0308">
+      <created>1678240227875</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1678240227875</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -902,7 +902,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update  输出单链表倒数第K个节点" />
     <MESSAGE value="update  使用链表实现大数加法" />
     <MESSAGE value="update  删除单链表中节点，要求时间复杂度为O(1)" />
     <MESSAGE value="update  将两个有序链表合并为一个新的有序链表并返回" />
@@ -927,7 +926,8 @@
     <MESSAGE value="update readme" />
     <MESSAGE value="update" />
     <MESSAGE value="update to latest" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to latest" />
+    <MESSAGE value="update to latest 0308" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to latest 0308" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Core/数组_链表/从尾到头打印链表.java">
