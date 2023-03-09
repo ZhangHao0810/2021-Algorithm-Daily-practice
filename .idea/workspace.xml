@@ -1,11 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b61fdd4-bcb6-41b7-b501-d2baa82ecd72" name="Default" comment="">
+    <list default="true" id="7b61fdd4-bcb6-41b7-b501-d2baa82ecd72" name="Default" comment="update to latest 0309">
+      <change afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/剑指OFFER  名企面试官精讲典型编程题  第2版.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q02_实现Singleton模式/HungryManSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q02_实现Singleton模式/HungryManSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q02_实现Singleton模式/LazyManSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q02_实现Singleton模式/LazyManSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q02_实现Singleton模式/LazyManSingleton_Synchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q02_实现Singleton模式/LazyManSingleton_Synchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q02_实现Singleton模式/LazyManSingleton_Synchronized_double.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q02_实现Singleton模式/LazyManSingleton_Synchronized_double.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q02_实现Singleton模式/StaticInnerClassSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q02_实现Singleton模式/StaticInnerClassSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q02_实现Singleton模式/VolatileSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q02_实现Singleton模式/VolatileSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q02_实现Singleton模式/VolatileSingleton_Serializable.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q02_实现Singleton模式/VolatileSingleton_Serializable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q02_实现Singleton模式/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q02_实现Singleton模式/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q03_数组中重复的数字/GetDuplicateNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q03_数组中重复的数字/GetDuplicateNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q03_数组中重复的数字/Q3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q03_数组中重复的数字/Q3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q03_数组中重复的数字/Q3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q03_数组中重复的数字/Q3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q03_数组中重复的数字/补充_Java二分查找.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q03_数组中重复的数字/补充_Java二分查找.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q03_数组中重复的数字/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q03_数组中重复的数字/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q04_二维数组中的查找/MyAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q04_二维数组中的查找/MyAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q04_二维数组中的查找/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q04_二维数组中的查找/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q04_二维数组中的查找/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q04_二维数组中的查找/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q05_替换空格/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q05_替换空格/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q05_替换空格/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q05_替换空格/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q06_从尾到头打印链表/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q06_从尾到头打印链表/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q06_从尾到头打印链表/_1_递归法.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q06_从尾到头打印链表/_1_递归法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q06_从尾到头打印链表/_2_头插法.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q06_从尾到头打印链表/_2_头插法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q06_从尾到头打印链表/_3_使用栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q06_从尾到头打印链表/_3_使用栈.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q06_从尾到头打印链表/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q06_从尾到头打印链表/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q07_重建二叉树/BinTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q07_重建二叉树/BinTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q07_重建二叉树/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q07_重建二叉树/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q07_重建二叉树/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q07_重建二叉树/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q08_二叉树的下一个节点/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q08_二叉树的下一个节点/Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q08_二叉树的下一个节点/TreeLinkNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q08_二叉树的下一个节点/TreeLinkNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q08_二叉树的下一个节点/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q08_二叉树的下一个节点/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q09_用两个栈实现队列/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q09_用两个栈实现队列/Q9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q09_用两个栈实现队列/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q09_用两个栈实现队列/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q10_斐波那契数列/Q10_1_Fibonacci_bad.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q10_斐波那契数列/Q10_1_Fibonacci_bad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q10_斐波那契数列/Q10_1_Fibonacci_good.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q10_斐波那契数列/Q10_1_Fibonacci_good.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q10_斐波那契数列/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q10_斐波那契数列/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q11_旋转数组的最小数字/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q11_旋转数组的最小数字/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q11_旋转数组的最小数字/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q11_旋转数组的最小数字/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q12_矩阵中的路径/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q12_矩阵中的路径/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q12_矩阵中的路径/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q12_矩阵中的路径/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q13_机器人的运动范围/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q13_机器人的运动范围/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q13_机器人的运动范围/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q13_机器人的运动范围/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q14_剪绳子/动态规划解法.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q14_剪绳子/动态规划解法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q14_剪绳子/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q14_剪绳子/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q14_剪绳子/贪心解法.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q14_剪绳子/贪心解法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q15_二进制中1的个数/位运算.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q15_二进制中1的个数/位运算.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q15_二进制中1的个数/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q15_二进制中1的个数/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q16_数值的整数次方/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q16_数值的整数次方/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q16_数值的整数次方/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q16_数值的整数次方/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q17_打印从1到最大的n位数/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q17_打印从1到最大的n位数/Q17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q17_打印从1到最大的n位数/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q17_打印从1到最大的n位数/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q18_删除链表的节点/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q18_删除链表的节点/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q18_删除链表的节点/Q18_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q18_删除链表的节点/Q18_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q18_删除链表的节点/Q18_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q18_删除链表的节点/Q18_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q19_正则表达式匹配/Q19.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q19_正则表达式匹配/Q19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q20_判断表示数字的字符串/Q20.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q20_判断表示数字的字符串/Q20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q21_调整数组顺序使奇数位于偶数前面/Q21_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q21_调整数组顺序使奇数位于偶数前面/Q21_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q21_调整数组顺序使奇数位于偶数前面/Q21_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q21_调整数组顺序使奇数位于偶数前面/Q21_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q21_调整数组顺序使奇数位于偶数前面/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q21_调整数组顺序使奇数位于偶数前面/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q22_链表中倒数第k个结点/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q22_链表中倒数第k个结点/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q22_链表中倒数第k个结点/Q22.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q22_链表中倒数第k个结点/Q22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q23_链表中环的入口结点/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q23_链表中环的入口结点/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q23_链表中环的入口结点/Q23.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q23_链表中环的入口结点/Q23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q24_反转链表/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q24_反转链表/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q24_反转链表/迭代.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q24_反转链表/迭代.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q24_反转链表/递归.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q24_反转链表/递归.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q25_合并两个排序的链表/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q25_合并两个排序的链表/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q25_合并两个排序的链表/迭代.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q25_合并两个排序的链表/迭代.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q25_合并两个排序的链表/递归.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q25_合并两个排序的链表/递归.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q26_树的子结构/Q26.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q26_树的子结构/Q26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q26_树的子结构/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q26_树的子结构/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q26_树的子结构/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q26_树的子结构/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q27_二叉树的镜像/Q27.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q27_二叉树的镜像/Q27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q27_二叉树的镜像/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q27_二叉树的镜像/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q28_对称的二叉树/Q28.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q28_对称的二叉树/Q28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q28_对称的二叉树/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q28_对称的二叉树/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q28_对称的二叉树/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q28_对称的二叉树/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q29_顺时针打印矩阵/Q29.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q29_顺时针打印矩阵/Q29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q30_包含min函数的栈/Q30.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q30_包含min函数的栈/Q30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q31_栈的压入和弹出序列/Q31.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q31_栈的压入和弹出序列/Q31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q31_栈的压入和弹出序列/要求.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q31_栈的压入和弹出序列/要求.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q32_从上到下打印二叉树/A_不分行从上到下打印二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q32_从上到下打印二叉树/A_不分行从上到下打印二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q32_从上到下打印二叉树/B_分行从上到下打印二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q32_从上到下打印二叉树/B_分行从上到下打印二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q32_从上到下打印二叉树/C_按之字形从上到下打印二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q32_从上到下打印二叉树/C_按之字形从上到下打印二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q32_从上到下打印二叉树/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q32_从上到下打印二叉树/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q33_二叉搜索树的后序遍历序列/Q33.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q33_二叉搜索树的后序遍历序列/Q33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q34_二叉树中和为某一值的路径/Q34.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q34_二叉树中和为某一值的路径/Q34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q34_二叉树中和为某一值的路径/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q34_二叉树中和为某一值的路径/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q35_复杂链表的复制/Q35.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q35_复杂链表的复制/Q35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q36_二叉搜索树与双向链表/Q36.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q36_二叉搜索树与双向链表/Q36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q36_二叉搜索树与双向链表/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q36_二叉搜索树与双向链表/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q37_序列化二叉树/Q37.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q37_序列化二叉树/Q37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q37_序列化二叉树/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q37_序列化二叉树/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q38_字符串的排列/Q38.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q38_字符串的排列/Q38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q39_数组中出现次数超过一半的数字/Q39.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q39_数组中出现次数超过一半的数字/Q39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q40_最小的K个数/Q40_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q40_最小的K个数/Q40_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q40_最小的K个数/Q40_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q40_最小的K个数/Q40_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q41_数据流中的数与字符/字符流中第一个不重复的字符.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q41_数据流中的数与字符/字符流中第一个不重复的字符.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q41_数据流中的数与字符/数据流中的中位数.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q41_数据流中的数与字符/数据流中的中位数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q42_连续子数组的最大和/Q42.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q42_连续子数组的最大和/Q42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/Q43_从1到n整数中1出现的次数/Q43.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q43_从1到n整数中1出现的次数/Q43.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer _第二版_Java实现/如何计算算法的时间和空间复杂度.md" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/如何计算算法的时间和空间复杂度.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构与算法每日一练.iml" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构与算法每日一练.iml" afterDir="false" />
     </list>
-    <list id="aa21c240-5610-4221-8dfc-02648172c718" name="Revert &quot;update&quot;" comment="Revert &quot;update&quot;&#10;&#10;This reverts commit 63a5a2b" />
-    <list id="c644ea6c-c0c9-4bdf-a34a-82e16bd952fb" name="Revert: update" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,11 +293,11 @@
       <recent name="D:\Data\IDEA DATA\2021_算法每日一练\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA Projects\数据结构与算法每日一练\剑指Offer _第二版_Java实现" />
       <recent name="D:\Data\IDEA DATA\数据结构与算法每日一练\剑指Offer _第二版_Java实现" />
       <recent name="D:\Data\IDEA DATA\数据结构与算法每日一练\设计模式\单例模式" />
       <recent name="D:\Data\IDEA DATA\数据结构与算法每日一练\设计模式\装饰者模式" />
       <recent name="D:\Data\IDEA DATA\2021_算法每日一练\ZhangHao自整理" />
-      <recent name="D:\Data\IDEA DATA\2021_算法每日一练\_字符串" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -207,73 +308,7 @@
       <recent name="数组和链表.链表中带环问题" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test2">
-    <configuration name="带环的链表如何定位环入口" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组和链表.链表中带环问题.带环的链表如何定位环入口" />
-      <module name="数据结构与算法每日一练" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="数组和链表.链表中带环问题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="春招2021_10th淘汰分数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="美团.春招2021_10th淘汰分数" />
-      <module name="数据结构与算法每日一练" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="美团.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Codetest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codetest" />
-      <module name="数据结构与算法每日一练" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Quick_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01交换排序.Quick_Sort" />
-      <module name="数据结构与算法每日一练" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_01交换排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Shell_Sort自测" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02插入排序.Shell_Sort自测" />
-      <module name="数据结构与算法每日一练" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_02插入排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test2" />
-      <module name="数据结构与算法每日一练" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="带环的链表计算环长度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="数组和链表.链表中带环问题.带环的链表计算环长度" />
       <module name="2021_算法每日一练" />
@@ -360,23 +395,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.带环的链表如何定位环入口" />
-      <item itemvalue="Application.春招2021_10th淘汰分数" />
-      <item itemvalue="Application.Codetest" />
-      <item itemvalue="Application.Quick_Sort" />
-      <item itemvalue="Application.Shell_Sort自测" />
-      <item itemvalue="Application.Test2" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Shell_Sort自测" />
-        <item itemvalue="Application.Quick_Sort" />
-        <item itemvalue="Application.Codetest" />
-        <item itemvalue="Application.春招2021_10th淘汰分数" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -385,7 +403,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7b61fdd4-bcb6-41b7-b501-d2baa82ecd72" name="Default" comment="" />
-      <changelist id="c644ea6c-c0c9-4bdf-a34a-82e16bd952fb" name="Revert: update" comment="" />
+      <changelist id="" name="Revert: update" comment="" />
       <created>1616162469359</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -493,21 +511,7 @@
       <workItem from="1678228706086" duration="837000" />
       <workItem from="1678239731870" duration="1239000" />
       <workItem from="1678247821017" duration="193000" />
-      <workItem from="1678322693731" duration="734000" />
-    </task>
-    <task id="LOCAL-00043" summary="update  输出单链表倒数第K个节点">
-      <created>1619691263450</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1619691263450</updated>
-    </task>
-    <task id="LOCAL-00044" summary="update  使用链表实现大数加法">
-      <created>1619706982808</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1619706982808</updated>
+      <workItem from="1678322693731" duration="5573000" />
     </task>
     <task id="LOCAL-00045" summary="update  删除单链表中节点，要求时间复杂度为O(1)">
       <created>1619741687000</created>
@@ -838,7 +842,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678240227875</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="update to latest 0309">
+      <created>1678323495680</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1678323495681</updated>
+    </task>
+    <task id="LOCAL-00093" summary=".gitignore 补充">
+      <created>1678324217583</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1678324217583</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -902,8 +920,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update  使用链表实现大数加法" />
-    <MESSAGE value="update  删除单链表中节点，要求时间复杂度为O(1)" />
     <MESSAGE value="update  将两个有序链表合并为一个新的有序链表并返回" />
     <MESSAGE value="update  从头到尾打印链表" />
     <MESSAGE value="update 高效对有序数组/链表去重" />
@@ -927,7 +943,9 @@
     <MESSAGE value="update" />
     <MESSAGE value="update to latest" />
     <MESSAGE value="update to latest 0308" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to latest 0308" />
+    <MESSAGE value="update to latest 0309" />
+    <MESSAGE value=".gitignore 补充" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore 补充" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Core/数组_链表/从尾到头打印链表.java">
