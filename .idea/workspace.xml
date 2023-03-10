@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7b61fdd4-bcb6-41b7-b501-d2baa82ecd72" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q03_数组中重复的数字/Q3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q03_数组中重复的数字/FindDuplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q03_数组中重复的数字/Q3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q03_数组中重复的数字/FindDuplicationNoEdit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q05_替换空格/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q05_替换空格/ReplaceSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/《剑指Offer（第2版）》/src/JZ02替换空格.java" beforeDir="false" afterPath="$PROJECT_DIR$/《剑指Offer第2版》Java实现/Q05_替换空格/ReplaceSpaces_m2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试算法真题/Test2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,16 +200,17 @@
       <recent name="D:\Data\IDEA DATA\2021_算法每日一练\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA Projects\数据结构与算法每日一练\《剑指Offer第2版》Java实现\02_Singleton" />
       <recent name="E:\IDEA Projects\数据结构与算法每日一练\剑指Offer _第二版_Java实现" />
       <recent name="D:\Data\IDEA DATA\数据结构与算法每日一练\剑指Offer _第二版_Java实现" />
       <recent name="D:\Data\IDEA DATA\数据结构与算法每日一练\设计模式\单例模式" />
       <recent name="D:\Data\IDEA DATA\数据结构与算法每日一练\设计模式\装饰者模式" />
-      <recent name="D:\Data\IDEA DATA\2021_算法每日一练\ZhangHao自整理" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Q05_替换空格" />
       <recent name="" />
       <recent name="链表中带环问题" />
       <recent name="数组和链表.链表中带环问题" />
@@ -417,6 +423,7 @@
       <workItem from="1678247821017" duration="193000" />
       <workItem from="1678322693731" duration="5573000" />
       <workItem from="1678409188074" duration="2808000" />
+      <workItem from="1678426776369" duration="2955000" />
     </task>
     <task id="LOCAL-00046" summary="update  将两个有序链表合并为一个新的有序链表并返回">
       <created>1619741709841</created>

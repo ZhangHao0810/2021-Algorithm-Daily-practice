@@ -22,7 +22,7 @@ package Q03_数组中重复的数字;
  * <p>
  * 算法缺点: 无法保证找出所有重复的数字.
  */
-public class Q3_2 {
+public class FindDuplicationNoEdit {
 
     public static void main(String[] args) {
         int[] nums = {2,3,5,4,3,2,6,7};

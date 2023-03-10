@@ -3,7 +3,12 @@ package Q03_数组中重复的数字;
 /**
  * @author ZhangHao
  * @date 2020/2/16 18:45
- * @Description： 时间复杂度 O(N)，空间复杂度 O(1)。
+ * @Description：
+ * 考点:
+ * 考察对一位数组的理解以及编程能力.
+ * 分析问题的能力.
+ * <p>
+ * 时间复杂度 O(N)，空间复杂度 O(1)。
  * 因此不能使用排序的方法，也不能使用额外的标记数组。
  * 对于这种数组元素在 [0, n-1] 范围内的问题，
  * 可以将值为 i 的元素调整到第 i 个位置上进行求解。
@@ -15,10 +20,11 @@ package Q03_数组中重复的数字;
  * 在一个长度为n的数组里的所有数字都在0~n-1的范围内.
  * 数组中某些数字是重复的,但不知道几个数字重复了.也不知道每个数字重复了几次.
  * 找出数组中任意一个重复的数字.
- *
+ * ex: 输入长度为 7 的数组{2,3,1,0,2,5,3} 对应的输出是 2或者3
+ * <p>
  * 牛逼.值得多看.
  */
-public class Q3_1 {
+public class FindDuplication {
 
     public boolean duplicate(int[] nums, int length, int[] duplication) {
         if (nums == null || length <= 0)

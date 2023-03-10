@@ -10,7 +10,7 @@ package Q05_替换空格;
  *
  * 看似简单其实也是大有门道的.  代码只是展示形式，重要的是思维模型。
  */
-public class Q5 {
+public class ReplaceSpaces {
 
     public String replaceSpace(StringBuffer str) {
         int p1 = str.length() - 1;
