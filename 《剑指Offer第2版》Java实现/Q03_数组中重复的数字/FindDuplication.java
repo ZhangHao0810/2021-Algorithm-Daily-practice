@@ -1,8 +1,13 @@
 package Q03_数组中重复的数字;
 
+import org.junit.Test;
+
+import java.util.ArrayList;
+
 /**
  * @author ZhangHao
  * @date 2020/2/16 18:45
+ * @update: 2023年3月27日17:14:50
  * @Description：
  * 考点:
  * 考察对一位数组的理解以及编程能力.
@@ -26,18 +31,25 @@ package Q03_数组中重复的数字;
  */
 public class FindDuplication {
 
-    public boolean duplicate(int[] nums, int length, int[] duplication) {
-        if (nums == null || length <= 0)
-            return false;
-        for (int i = 0; i < length; i++) {
+    @Test
+    public void main() {
+        int[] nums = {2, 3, 1, 0, 2, 5, 3};
+        System.out.println(duplicate(nums));
+    }
+
+    public ArrayList<Integer> duplicate(int[] nums) {
+
+        ArrayList<Integer> duplication = new ArrayList<>();
+        if (nums == null || nums.length <= 0)
+            return null;
+        for (int i = 0; i < nums.length; i++) {
 //            因为数组元素就是0~n-1  长度为n  所以要充分利用下标的优势.将数放到下标的地方.
 //            注意while 条件 元素和元素位置下标不一致.这是关键.
             while (nums[i] != i) {
 //             进入while中,元素还是和以元素为下标的位置的元素相等,便一定是这俩重复了.
 //             重复数字,返回true,重复数字保存在duplication[0]中.
                 if (nums[i] == nums[nums[i]]) {
-                    duplication[0] = nums[i];
-                    return true;
+                    duplication.add(nums[i]) ;
                 }
 //           如果和下标不一致,就把这个数放在以这个数为下标的位置.互换一下. 这时候,nums[i]这个位置就OK了,
 // 当for循环  i== nums[i]时, 便不会执行while. 所以时间复杂度就在这里省下来了.
@@ -45,7 +57,7 @@ public class FindDuplication {
             }
         }
 
-        return false;
+        return duplication;
     }
 
     /**
@@ -56,7 +68,6 @@ public class FindDuplication {
         int t = nums[i];
         nums[i] = nums[j];
         nums[j] = t;
-
     }
 
 }
