@@ -1,4 +1,4 @@
-package Q07_重建二叉树;
+package Q07_重建二叉树.垃圾的解法;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -71,6 +71,7 @@ public class BinTree {
     private void visit(Object obj) {
         System.out.print(obj+" ");
     }
+
     Object getData() {
         return this.data;
     }

@@ -1,36 +1,25 @@
+package Q07_重建二叉树;
+
+import org.junit.Test;
+
 import java.util.Arrays;
 
 /**
  * @author Super-Zhang
  * @date 2021-08-03 11:27
- * <p>
+ * @update 2023年3月29日11:49:38
+ * 前中后序 指的是 根节点的遍历顺序。
  * 描述
  * 给定某二叉树的前序遍历和中序遍历，请重建出该二叉树并返回它的头结点。(给遍历数组，返回一颗二叉树)
  * 例如输入前序遍历序列{1,2,4,7,3,5,6,8}和中序遍历序列{4,7,2,1,5,3,8,6}
- * <p>
- * <p>
- * 提示:
- * 1.0 <= pre.length <= 2000
- * 2.vin.length == pre.length
- * 3.-10000 <= pre[i], vin[i] <= 10000
- * 4.pre 和 vin 均无重复元素
- * 5.vin出现的元素均出现在 pre里
- * 6.只需要返回根结点，系统会自动输出整颗树做答案对比
- * <p>
- * 输入：
- * [1,2,4,7,3,5,6,8],[4,7,2,1,5,3,8,6]
- * 返回值：
- * {1,2,3,4,#,5,6,#,7,#,#,8}
- * <p>
  * 说明：
  * 返回根节点，系统会输出整颗二叉树对比结果
- * <p>
  * 输入：
  * [1,2,3,4,5,6,7],[3,2,4,1,6,5,7]
  * 返回值：
  * {1,2,5,3,4,6,7}
  */
-public class JZ04重建二叉树 {
+public class JZ07重建二叉树 {
 
     /**
      * 分析
@@ -54,21 +43,41 @@ public class JZ04重建二叉树 {
      * 对子树分别使用同样的方法分解
      */
 
-    public TreeNode reConstructBinaryTree(int[] pre, int[] in) {
-        if (pre.length == 0 || in.length == 0) {
+    @Test
+    public void main() {
+        int[] pre = {1, 2, 4, 7, 3, 5, 6, 8};
+        int[] in = {4, 7, 2, 1, 5, 3, 8, 6};
+
+        TreeNode root = reConstructBinaryTree(pre, in);
+        // 打印前序和中序遍历进行验证
+        TreeNode.preorder(root);
+        System.out.println();
+        TreeNode.inorder(root);
+
+    }
+
+    /**
+     * @description 根据前序和中序遍历，重建二叉树，并返回跟节点。
+     * @author zh
+     * @data 2023/3/29
+     */
+    private TreeNode reConstructBinaryTree(int[] pre, int[] in) {
+        if (pre.length==0 || in.length==0) {
             return null;
         }
+
         TreeNode root = new TreeNode(pre[0]);
 
         for (int i = 0; i < in.length; i++) {
-            if (in[i] == pre[0]) { //注意这里左子树要从1开始，因为0位置是根  。  Arrays.copyOfRange(arr,left,right) 范围是左闭右开的。
-                root.left = reConstructBinaryTree(Arrays.copyOfRange(pre, 1, i + 1), Arrays.copyOfRange(in, 0, i));
-                root.right = reConstructBinaryTree(Arrays.copyOfRange(pre, i + 1, pre.length), Arrays.copyOfRange(in, i, in.length));
-                break;//break 减少无谓的循环。
+            if (in[i] == pre[0]) {
+                // 注意，递归的不是左右字数，而是前序和中序遍历的树数组。
+                root.leftChild = reConstructBinaryTree(Arrays.copyOfRange(pre, 1, i + 1), Arrays.copyOfRange(in, 0, i));
+                root.rightChild = reConstructBinaryTree(Arrays.copyOfRange(pre, i + 1, pre.length), Arrays.copyOfRange(in, i+1, in.length));
+                break;
             }
-
         }
-        return root;
 
+        return root;
     }
+
 }

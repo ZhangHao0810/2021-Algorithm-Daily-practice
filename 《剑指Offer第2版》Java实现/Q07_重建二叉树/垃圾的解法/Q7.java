@@ -1,11 +1,11 @@
-package Q07_重建二叉树;
+package Q07_重建二叉树.垃圾的解法;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /**
  * @author ZhangHao
- * @date 2020/2/20 20:50
+ * @date 2020/2/20 20:50   这个写的好垃圾啊，不好， 牛客的帖子里面的解法只是那个人的解法，并不是最好理解的最优解。要取全网的精华。
  * @Description： 考察二叉树的相关知识.
  * 前序遍历的第一个值为根节点的值, 使用这个值将中序遍历结果分成两部分
  * 左部分为树的左子树中序遍历结果,右部分为右子树的中序遍历结果.
@@ -13,14 +13,12 @@ import java.util.Map;
 public class Q7 {
 
     public static void main(String[] args) {
-
 //        前序遍历
         int[] pre = {1, 2, 4, 7, 3, 5, 6, 8};
 //        中序遍历
         int[] in = {4, 7, 2, 1, 5, 3, 8, 6};
 
         BinTree result = reConstructBinaryTree(pre, in);
-
         System.out.println(result.getData());
 
     }
@@ -28,7 +26,7 @@ public class Q7 {
     // 缓存中序遍历数组每个值对应的索引
     private static Map<Integer, Integer> indexForInOrders = new HashMap<>();
 
-    private static   BinTree reConstructBinaryTree(int[] pre, int[] in) {
+    private static BinTree reConstructBinaryTree(int[] pre, int[] in) {
         for (int i = 0; i < in.length; i++) {
 //            key为值, value为中序遍历的索引.
             indexForInOrders.put(in[i], i);
@@ -46,9 +44,6 @@ public class Q7 {
         root.setrChild(reConstructBinaryTree(pre, preL + leftTreeSize + 1, preR, inL + leftTreeSize + 1));
         return root;
     }
-
-
-
 
 
 }
