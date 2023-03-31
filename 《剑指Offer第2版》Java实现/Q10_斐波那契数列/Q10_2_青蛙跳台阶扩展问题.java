@@ -1,10 +1,12 @@
+package Q10_斐波那契数列;
+
 /**
  * @author Super-Zhang
  * @date 2021-08-03 13:33
  *
  * 一只青蛙一次可以跳上1级台阶，也可以跳上2级……它也可以跳上n级。求该青蛙跳上一个n级的台阶(n为正整数)总共有多少种跳法。
  */
-public class JZ09跳台阶扩展问题 {
+public class Q10_2_青蛙跳台阶扩展问题 {
 
     /**
      * 要勇敢的递推试一下，数学关系要搞明白，算法其实就是考察数学。
@@ -13,7 +15,9 @@ public class JZ09跳台阶扩展问题 {
      */
 
     public int jumpFloorII(int target) {
-        if (target == 0 || target == 1) return 1;
+        if (target == 0 || target == 1) {
+            return 1;
+        }
         return (int) Math.pow(2,target-1);
     }
 
