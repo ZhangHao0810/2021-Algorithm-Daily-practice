@@ -55,7 +55,7 @@ public class Q11 {
      */
     public int minNumberInRotateArray(int[] array) {
         if (array.length == 0) {
-            return 0;
+            return -1;
         }
         int low = 0;
         int high = array.length - 1;
@@ -71,7 +71,7 @@ public class Q11 {
             if (array[mid] > target) {
                 low = mid + 1;
             } else if (array[mid] < target) {
-                high = mid - 1;
+                high = mid;
             } else {
                 high--;
             }
