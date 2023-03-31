@@ -1,11 +1,17 @@
-/**
- * @author Super-Zhang
- * @date 2021-08-03 13:05
- * <p>
- * 大家都知道斐波那契数列，现在要求输入一个整数n，请你输出斐波那契数列的第n项（从0开始，第0项为0，第1项是1）。
- */
-public class JZ07斐波那契数列 {
+package Q10_斐波那契数列;
 
+/**
+ * @author ZhangHao
+ * @date 2020/2/23 16:37
+ * @date 2021-08-03 13:05
+ * @update 2023年3月31日14:21:06
+ * @Description： 往常使用递归的解法.
+ * 这种解法虽然好懂,但是会有大量的重复计算.
+ * f(4)=f(3)+f(2)
+ * f(3)=f(2)+f(1)
+ * f(2)就被重复计算了两次.
+ */
+public class Q10_1_Fibonacci {
     /**
      * 同样的类型的题还有兔子繁殖的问题。
      * 此题可以用丰富的解法来解答。
@@ -37,7 +43,9 @@ public class JZ07斐波那契数列 {
      * 递归函数分为调用和回退阶段，递归的回退顺序是它调用顺序的逆序。
      */
     public int fibonacci(int n) {
-        if (n < 1) return n;
+        if (n < 1) {
+            return n;
+        }
         return fibonacci(n - 1) + fibonacci(n - 2);
     }
 
@@ -46,12 +54,17 @@ public class JZ07斐波那契数列 {
      * <p>
      * 用成员变量数组装着算过的数。 依旧反复递归调用自己，但用一个 if 判断来截断运算！！
      */
-    int ans[] = new int[40];
+    int[] ans = new int[40];
 
-    public int Fibonacci(int n) {
-        if (n <= 1) return n;
-        if (ans[n] != 0) return ans[n];// 减少递归次数的关键。
-        return ans[n] = Fibonacci(n - 1) + Fibonacci(n - 2);
+    public int fibonacci1(int n) {
+        if (n <= 1) {
+            return n;
+        }
+        if (ans[n] != 0) {
+            // 减少递归次数的关键。
+            return ans[n];
+        }
+        return ans[n] = fibonacci1(n - 1) + fibonacci1(n - 2);
     }
 
     /**
@@ -59,14 +72,19 @@ public class JZ07斐波那契数列 {
      * <p>
      * 动态规划类似分治，同样是将原问题分解成子问题，通过求解子问题而得到原问题的解。
      * 但不同的是，动态规划是自底向上分解，并且会保存子问题的解，在需要时可直接拿过来使用，这一点是区别于分治的。
+     * 这样没问题，就是多了空间复杂度。
      */
-    int Fibonacci1(int n) {
-        int ans[] = new int[40];
-        ans[1] = 1;
-        for (int i = 2; i <= n; ++i) {
-            ans[i] = ans[i - 1] + ans[i - 2];
+    int fibonacci2(int n) {
+        if (n <= 1) {
+            return n;
         }
-        return ans[n];
+        //0号索引舍弃.
+        int[] fib = new int[n + 1];
+        fib[1] = 1;
+        for (int i = 2; i < n; i++) {
+            fib[i] = fib[i - 1] + fib[i - 2];
+        }
+        return fib[n];
     }
 
     /**
@@ -74,9 +92,10 @@ public class JZ07斐波那契数列 {
      * <p>
      * 我比较擅长这个。
      */
-    public int Fibonacci2(int n) {
-        if (n == 0) return 0;
-        else if (n == 1) return 1;
+    public int fibonacci2D1(int n) {
+        if (n == 0 || n == 1) {
+            return n;
+        }
         int sum = 0;
         int two = 0;
         int one = 1;
@@ -92,12 +111,14 @@ public class JZ07斐波那契数列 {
      * 2.2递推: 还可以优化，用更少的变量
      * 这个一定要学习到。 用两个指针就可以完成遍历。
      */
-    public int Fibonacci3(int n) {
-        if(n == 0)  return 0;
-        if(n == 1)  return 1;
+    public int fibonacci2D2(int n) {
+        if (n <= 1) {
+            return n;
+        }
         int sum = 1;
         int one = 0;
-        for(int i=2;i<=n;i++){ //找规律找出来的精华。
+        //找规律找出来的精华。
+        for (int i = 2; i <= n; i++) {
             sum = sum + one;
             one = sum - one;
         }
